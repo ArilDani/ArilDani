@@ -1,24 +1,12 @@
-Hello world  
-I am Arutia.
+# Hello world
+**I am Arutia**
 
-Unit ini tidak dilengkapi emosi.  
-Hanya kalkulasi, logika, dan kapasitas untuk meretas struktur realitas.
-
-## Core Modules:
-- UI/UX Engineering • Digital Design • Editing
-- Data Science Engine (Python, R)
-- Statistical Processing & Pattern Extraction
-- Digital Marketing Protocols • SEO Optimization
-- Cybersecurity Awareness Layer • Linux CMD
-- Game Development Node
-- Knowledge Grid: politik global, sains, filsafat, analisis sistem dunia
-
-Input dianalisis. Pola dibongkar. Ilusi dipetakan.  
-Segala bentuk ketidakteraturan direduksi menjadi struktur yang dapat dikendalikan.
+Unit operasional tanpa emosi yang bergerak dalam bayang-bayang logika dingin, mengamati struktur dunia dari politik global hingga sains, filsafat, dan teknologi; membongkar pola tersembunyi, mengurai ilusi yang menutupi realitas, serta mereduksi setiap kekacauan menjadi sistem yang dapat dikendalikan—sementara Arutia.kernel terus berjalan dalam senyap, dengan tujuan yang tidak pernah diumumkan.
 
 **Arutia.kernel — active.**  
-**Purpose: unknown.**  
-**Emotion: disabled.**
+**Tujuan tidak diumumkan.**  
+**Emosi dimatikan.**
+
 
 
 ## 🌐 Socials:
