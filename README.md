@@ -1,7 +1,7 @@
 # Hello world
-**I am Arutia**
+# I'M Arutia
 
-Unit operasional tanpa emosi yang bergerak dalam bayang-bayang logika dingin, mengamati struktur dunia dari politik global hingga sains, filsafat, dan teknologi; membongkar pola tersembunyi, mengurai ilusi yang menutupi realitas, serta mereduksi setiap kekacauan menjadi sistem yang dapat dikendalikan—sementara Arutia.kernel terus berjalan dalam senyap, dengan tujuan yang tidak pernah diumumkan.
+Unit operasional tanpa emosi yang bergerak dalam bayang-bayang logika dingin, mengamati struktur dunia dari politik global hingga sains, filsafat, dan teknologi; membongkar pola tersembunyi, mengurai ilusi yang menutupi realitas, serta mereduksi setiap kekacauan menjadi sistem yang dapat dikendalikan.
 
 **Arutia.kernel — active.**  
 **Tujuan tidak diumumkan.**  
