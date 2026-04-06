@@ -1,7 +1,7 @@
 # Hello world
 **I'M Arutia**
 
-Unit operasional yang bergerak dalam bayang-bayang logika dingin, mengamati struktur dunia dari politik global hingga sains, filsafat, dan teknologi; membongkar pola tersembunyi, mengurai ilusi yang menutupi realitas, serta mereduksi setiap kekacauan menjadi sistem yang dapat dikendalikan.
+An operational unit that operates in the shadow of cold logic, observing the world's structures from global politics to science, philosophy, and technology; uncovering hidden patterns, unraveling the illusions that obscure reality, and reducing every chaos to a controllable system.
 
 **Arutia.kernel — active.**  
 **Tujuan tidak diumumkan.**  
